@@ -86,7 +86,8 @@ Cognitive Framework |  Disabling the scaffolding when analytical complexity scal
 
 ### 5. Citation
 
-Code snippet@article{yang2026ai,
+```Code
+snippet@article{yang2026ai,
   title={AI literacy mediates AI assisted diagnosis participation and critical thinking among medical students under supervision},
   author={Xin, Yang and Yan, Deng Susy and Shuren, Luo and Minyang, Luo and Liuheng, Lu},
   journal={npj Digital Medicine},
@@ -97,3 +98,6 @@ Code snippet@article{yang2026ai,
   publisher={Nature Publishing Group},
   doi={10.1038/s41746-026-02521-9}
 }
+
+
+```
